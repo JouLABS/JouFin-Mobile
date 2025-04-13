@@ -1,0 +1,10 @@
+
+<svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="100" fill="#0ABAB5"/>
+  <text x="20" y="60" font-family="Segoe UI, sans-serif" font-size="38" fill="#ffffff" font-weight="bold">
+    JouFin™
+  </text>
+  <text x="22" y="80" font-family="Segoe UI, sans-serif" font-size="14" fill="#C5B358">
+    "Seu saldo é emocional. A parcela é real."
+  </text>
+</svg>
